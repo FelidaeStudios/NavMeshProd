@@ -1,3 +1,3 @@
 # NavMeshProd
  
-https://kennerm1.github.io/NavMeshProd/
+https://felidaestudios.github.io/NavMeshProd/
